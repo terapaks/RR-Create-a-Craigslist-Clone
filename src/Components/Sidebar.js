@@ -1,10 +1,11 @@
+import React from 'react'
 import Help from './Help'
 
 const liStyle = {
-    'display' : 'inline',
-    'margin' : '2px',
-    'padding' : '1px',
-    'border' : '1px solid black'
+    'display': 'inline',
+    'margin': '2px',
+    'padding': '1px',
+    'border': '1px solid black'
 }
 
 const Sidebar = (props) => {

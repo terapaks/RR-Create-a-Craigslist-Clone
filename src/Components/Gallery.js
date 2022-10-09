@@ -1,3 +1,4 @@
+import React from 'react'
 import Posting from './Posting'
 
 const Gallery = (props) => {

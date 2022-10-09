@@ -1,5 +1,6 @@
+import React from 'react'
 // Import data
-import {postings} from './postings'
+import { postings } from './postings'
 // Import components
 import './App.css';
 import Directory from './Components/Directory'
